@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "./static/css/main.baeab700.css",
+    "main.js": "./static/js/main.4924747d.js",
+    "index.html": "./index.html",
+    "main.baeab700.css.map": "./static/css/main.baeab700.css.map",
+    "main.4924747d.js.map": "./static/js/main.4924747d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baeab700.css",
+    "static/js/main.4924747d.js"
+  ]
+}
